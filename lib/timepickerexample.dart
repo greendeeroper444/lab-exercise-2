@@ -19,7 +19,7 @@ class _TimePickerExampleState extends State<TimePickerExample> {
     );
 
     if (pickedTime != null) {
-      // Format the selected time
+
       final now = DateTime.now();
       final DateTime selectedTime = DateTime(
         now.year,

@@ -84,7 +84,6 @@ class HomePage extends StatelessWidget {
                       ),
                       const SizedBox(height: 20),
 
-                      // Profile Details Section
                       const Text(
                         "Profile Information",
                         style: TextStyle(
